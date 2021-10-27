@@ -1,4 +1,4 @@
-# ShopLine : A Website Application where you can buy online
+# ShopLine : A Website Application where you can buy online products
 
 This project was developped using React
 
